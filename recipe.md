@@ -7,7 +7,17 @@
 - 1 cup chocolate chips
 - 1 tsp vanilla extract
 - 1/2 tsp ground cinnamon
-- ...
+- 1 1/2 tsp baking powder
+- 1 1/2 tsp baking soda
+- 1/2 tsp salt
+- 1 cup buttermilk (or 1 cup milk + 1 tbsp lemon juice, let sit for 5 minutes)
+- 1/2 cup vegetable oil
+- 2 large eggs
+- 1 cup boiling water
+- 1/2 cup sour cream (for extra moisture and richness)
+- 1/2 cup finely chopped nuts (optional, for added crunch)
+- 1/2 cup dark chocolate chunks (optional, for a richer chocolate flavor)
+- 1/2 cup brewed coffee (optional, enhances the chocolate flavor)
 
 ## Instructions:
 1. Preheat the oven to 350°F (175°C).
